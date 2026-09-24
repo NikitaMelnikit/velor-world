@@ -7,6 +7,8 @@
 
 > Don't visit the brand. Enter it. — *Objects with a point of view.*
 
+**Live:** https://velor-world.vercel.app · every push to `main` deploys automatically (Vercel).
+
 A digital museum, magazine, product platform and archive for a fictional design house,
 built as one continuous space of rooms rather than a set of pages.
 
